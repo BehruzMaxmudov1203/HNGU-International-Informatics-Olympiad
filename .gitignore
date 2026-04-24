@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Data and large files (optional, depends on if user wants to share them)
+# Usually data folders from challenges are not uploaded to public repos
+Annex6-20260415/
+Annex7-20260415/
+Annex9/
+Scan-20260415/
+Scan3-20260415/
+File_zip_extracted/
+*.zip
+*.exe
+date_candidates.txt
