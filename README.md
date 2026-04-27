@@ -1,3 +1,4 @@
+<img width="3508" height="2480" alt="Mahmudov-Behruz-Wahhob-ogli" src="https://github.com/user-attachments/assets/b288bdc7-f32f-4b64-ad70-9533fbe6d2ac" />
 # IV International Internet Olympiad in Informatics (HNGU) - Solutions 🏆
 
 This repository contains the official award-winning solutions for the **IV International Internet Olympiad in Informatics (HNGU 2026)**.
